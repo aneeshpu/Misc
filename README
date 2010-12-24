@@ -1,0 +1,8 @@
+Usage:
+to Post
+---------
+./adocu.sh username password "Any message less than 75 characters"
+
+To read
+---------
+./adocu_read.sh username
